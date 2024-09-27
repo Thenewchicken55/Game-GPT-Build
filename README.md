@@ -1,4 +1,4 @@
-# Game-GPT-Build
+# Game GPT Build
 Game-GPT source code is currently private. However, this repository grants access to the executable.
 This project implements AI into Unity in an effort to show how games could improve NPC dialogues. 
 
